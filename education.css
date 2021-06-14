@@ -1,0 +1,22 @@
+body {
+  background-image: url("blueabstract.jpg");
+}
+
+.parentDiv {
+display: flex;
+justify-content: center;
+align-items: center;}
+
+h1
+{
+text-align:center;
+color:black;
+font-WELCOME TO MY PAGE:"Lucida Handwriting"
+}
+
+h1
+{
+text-align:center;
+color:black;
+font-MY PRIMARY SCHOOL-SEKOLAH KEBANGSAAN SUNGAI DUA:"Lucida Handwriting"
+}
